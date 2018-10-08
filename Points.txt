@@ -1,0 +1,16 @@
+Creational
+-------------
+
+1. Builder DP
+---------------
+	when you want to build different immutable objects using same object building process.
+	EX: StringBuilder,StingBuffer,ByteBuffer.put()
+	
+
+
+Behavioral
+
+
+Structural
+
+
